@@ -28,8 +28,8 @@ sudo apt update -qq
 
 # Install general utilities
 sudo apt install git curl htop net-tools \
-vlc gnome-tweaks ubuntu-restricted-extras \
-gnome-tweak-tool synaptic -y -qq
+  vlc gnome-tweaks ubuntu-restricted-extras \
+  synaptic -y -qq
 
 # Install drivers
 sudo apt install oem-somerville-melisa-meta libfprint-2-tod1-goodix oem-somerville-meta tlp-config -y
